@@ -1,9 +1,10 @@
 name: Release-CI
-
 on:
   push:
     branches:
       - main
+permissions:
+  contents: write
 jobs:
   release:
     name: Release
