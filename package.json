@@ -1,6 +1,7 @@
 {
   "name": "core-fetch",
   "version": "1.0.1",
+  "author": "youngbang",
   "description": "core-fetch",
   "main": "index.js",
   "license": "MIT",
