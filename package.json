@@ -2,6 +2,10 @@
   "name": "core-fetch",
   "version": "1.0.1",
   "author": "youngbang",
+  "repository": "https://github.com/kug2001/core-fetch",
+  "engines": {
+    "npm": "Please use yarn instead of NPM to install dependencies"
+  },
   "description": "core-fetch",
   "main": "index.js",
   "license": "MIT",
